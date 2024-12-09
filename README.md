@@ -25,7 +25,8 @@ The Power BI dashboard allows dynamic filtering by city, room class, and time pe
 - **DAX (Data Analysis Expressions)**: Used for custom calculations and metrics within Power BI.
 
 ## 📂 Project Files
-- **Dashboard Screenshot**: [Link to dashboard image](https://github.com/ramsifavaskp/Revenue-Insights-Analysis-in-Hospitality-Domain-using-PowerBI/blob/main/Dashboard.PNG)
+- **Dashboard Screenshot**:
+![Dashboard](https://github.com/user-attachments/assets/9fa2af67-4a01-4137-ad0a-07b60447dae0)
 - **Power BI Report (.pbix)**: [Link to the report](https://github.com/ramsifavaskp/Revenue-Insights-Analysis-in-Hospitality-Domain-using-PowerBI/blob/main/Revenue%20Insights%20in%20Hospitality%20Domain.pbix)
 - **Data Source**: Due to privacy constraints, sample or anonymized data is used for this project.
 
